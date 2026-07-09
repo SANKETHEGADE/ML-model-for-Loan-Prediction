@@ -42,7 +42,7 @@ Banks receive thousands of loan applications and manually reviewing each one is 
 | `project.py` | Full EDA + preprocessing + training + visualization pipeline |
 | `train_model.py` | Clean training script — preprocesses data, trains model, saves `model.pkl` and `scaler.pkl` |
 | `app.py` | Flask web app — takes form input, scales it, returns loan approval prediction |
-| `data/train.csv` | Training dataset |
+| `data/train.csv` | Training dataset | 
 | `model.pkl` | Saved Random Forest model |
 | `scaler.pkl` | Saved StandardScaler |
 | `templates/index.html` | Web interface |
