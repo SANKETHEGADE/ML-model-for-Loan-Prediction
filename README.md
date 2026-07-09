@@ -15,7 +15,7 @@ Banks receive thousands of loan applications and manually reviewing each one is 
 ## Features used
 
 | Feature | Type | Preprocessing |
-|---|---|---|
+|---|---|---| 
 | Gender | Categorical | Label Encoding |
 | Married | Categorical | Label Encoding |
 | Dependents | Mixed (includes "3+") | Cleaned → Numeric |
