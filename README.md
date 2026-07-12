@@ -6,7 +6,7 @@ An end-to-end machine learning project that predicts whether a loan application 
 
 Banks receive thousands of loan applications and manually reviewing each one is slow and inconsistent. This project automates that decision using a Random Forest classifier trained on applicant data, and wraps it in a simple web interface where anyone can enter their details and get an instant result.
 
-## Pipeline
+## Pipeline 
 
 1. **Data exploration** (`project.py`) — loads the dataset, inspects structure, checks missing values, and visualizes loan approval distribution and income vs. approval trends.
 2. **Preprocessing & training** (`train_model.py`) — cleans the data, encodes categorical features, scales numerical inputs, trains a Random Forest classifier, and saves the model and scaler to disk.
