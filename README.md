@@ -51,7 +51,7 @@ Banks receive thousands of loan applications and manually reviewing each one is 
 
 - Model: Random Forest Classifier
 - Test accuracy: ~76% (80/20 train-test split)
-- Output: "Loan Approved ✅" or "Loan Not Approved ❌" with confidence
+- Output: "Loan Approved " or "Loan Not Approved " with confidence
 
 ## How to run
 
