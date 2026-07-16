@@ -13,7 +13,7 @@ Banks receive thousands of loan applications and manually reviewing each one is 
 3. **Web app** (`app.py`) — a Flask app that loads the saved model, takes applicant details from a form, scales the input, and returns a real-time approval prediction.
 
 ## Features used
-
+ 
 | Feature | Type | Preprocessing |
 |---|---|---| 
 | Gender | Categorical | Label Encoding |
